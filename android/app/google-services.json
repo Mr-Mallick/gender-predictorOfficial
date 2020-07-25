@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "477691817318",
+    "firebase_url": "https://gender-predictor-d7bc2.firebaseio.com",
+    "project_id": "gender-predictor-d7bc2",
+    "storage_bucket": "gender-predictor-d7bc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477691817318:android:5e1f4afba3d82db07d2ca7",
+        "android_client_info": {
+          "package_name": "com.example.gender_predictator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477691817318-l2rcgldsafqmtgvrrsk8i1es30p4br6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXeo5oB_kYVbZC6QcKyV8v7E8vO57rOSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477691817318-l2rcgldsafqmtgvrrsk8i1es30p4br6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
